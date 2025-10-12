@@ -10,6 +10,6 @@ C++ includes used for precompiling on Visual Studio
 
 ## License
 
-Copyright &copy; [Xi Xu](https://xi-xu.me). All rights reserved.
+Copyright &copy; [Xi Xu](https://xi-xu.me)
 
 Licensed under the [GPL-3.0](LICENSE) license.
